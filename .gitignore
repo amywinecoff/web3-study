@@ -1,1 +1,4 @@
 *.ipynb_checkpoints
+twint/
+.DS_Store
+*Luna-2022-05-10 00:00:00.csv
